@@ -35,4 +35,4 @@ https://ollama.com/search
 ollama pull <modelname>
 ```
 
-5. Start chatting with your Ollama language model through HolaWeb!
+5. Start chatting with your Ollama language model through WebUI http://localhost:3000/!
